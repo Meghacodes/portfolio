@@ -1,0 +1,43 @@
+body{
+    background-color: #DDE6ED;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration:solid;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+}
+
+.links {
+    width: 500px;
+    border: 2px black solid ;
+    padding: 10px 20px;
+    
+    
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+   
+}
+.intro{
+
+    display: flex;
+    
+}
+.intro p{
+    width: 700px;
+    margin-left:30px;
+    line-height: 20px;
+
+}
+
+
+
